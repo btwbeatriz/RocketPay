@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
+## 👩‍💻 Projeto
+
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🎯 Tecnologias
 
@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - iMask
 
-## 👩‍💻 Projeto
-
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+<p align="center">
+  <img alt="rocketpay" src=".github/project.png" width="100%">
+</p>
